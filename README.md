@@ -68,7 +68,7 @@
 		</ol>
 	</ul>
 </rule>
-<h3></h3>
+<h2></h2>
 <body>
 <div align = "left">
 <ul>
