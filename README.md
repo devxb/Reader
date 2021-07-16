@@ -1,6 +1,6 @@
 <header>
 <div align = "center">
-<h2> 📚 BookReader </h2>
+<h1> 📚 BookReader </h1>
 <h3> Contributors </h3>
 <div id = "contributor">
 <!-- 양식 -->
