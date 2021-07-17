@@ -70,7 +70,7 @@
 		</ul>
 	</ul>
 </rule>
-<hr>
+<h2></h2>
 <body>
 
 <div align = "left">
