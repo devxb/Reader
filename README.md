@@ -1,6 +1,6 @@
 <header>
 <div align = "center">
-<h2> 📚 BookReader </h2>
+<h2> 📚 Reader </h2>
 <h3> Contributors </h3>
 <div id = "contributor">
 <!-- 양식 -->
@@ -11,17 +11,19 @@
 -->
 <!-- Contributors 설정 -->
 <a href = "https://github.com/devxb"> 
-<img src = "https://avatars.githubusercontent.com/u/62425964?s=400&u=032057e9ba04133c394891912c5adb612e3910ac&v=4" width = "55" height = "55"/>
+<img src = "https://avatars.githubusercontent.com/u/62425964?v=4" width = "55" height = "55"/>
+</a><a href = "https://github.com/small-j"> 
+<img src = "https://avatars.githubusercontent.com/u/44703262?v=4" width = "55" height = "55"/>
 </a>
 <!-- END : Contributors 설정 -->
 <!-- repo 설명 -->
 </div>
 <h3>좋은 개발자란 무엇일까?</h3> 
-<p> <i>유지보수에 용이한 코드를 작성하는 사람? 협업을 잘하는사람?</i>
-<br> 좋은 개발자에대한 생각은 모두가 다르며, 각자만의 방향으로 나아가고있다.
-<br> 서로가 읽은 책을 공유함으로써, 좋은 개발자라는 추상적인 목표를 획일화하고, 함께 성장해 나가는것을 목표로한다.
+<p> 
+유지보수에 용이한 코드를 작성하는 사람? 협업능력이 뛰어난 사람?
+<br>좋은 개발자에 대한 생각은 모두가 다르며, 각자만의 방향으로 나아가고있다.  
+<br> 서로가 읽은 책을 공유함으로써, 좋은 개발자라는 추상적인 목표를 향해 함께 성장한다.
 </p>
-<h4> "좋은 개발자"라는 목표에 모인 뉴비들이 만들어 나가는 책 기록 저장소이다.</h4>
 </div>
 <!-- END : repo 설명 -->
 </header>
@@ -29,7 +31,7 @@
 <rule>
 <ul> 
 		<h3> 규칙 </h3>
-		<ol>
+		<ul>
 			<li>
 				커밋
 				<ul>
@@ -49,13 +51,13 @@
  					<br> 양식은 아래와 같습니다.
 	 					<ul>
 		 					<li>
-		 					<a>책 제목</a> (링크는 /books/책 제목 으로 해주세요)
+		 					<a href = "/">책 제목</a> (링크는 "/books/책 제목" 으로 해주세요)
 			 				<br> 자신의 깃허브이름 / 읽은 날짜 / 주관적인 난이도(★★★☆☆)
-			 				<br> - 짧은 평가
+			 				<br> - 짧은 평가 (1~3줄)
 		 					</li>
 		 					<li>
 		 					ex) 
-		 					<br> Head First Design Patterns
+		 					<br> <a href = "/books/Head First Design Patterns">Head First Design Patterns</a>
 		 					<br> [Devxb] / 2021.07.16 / ★★☆☆☆
 		 					<br> - 디자인 패턴에 대해 ... 
 		 					<br> [xb205] / 2021.07.16 / ★★★☆☆
@@ -65,24 +67,46 @@
  					</li>
 				</ul>
 			</li>
-		</ol>
+		</ul>
 	</ul>
 </rule>
 <hr>
 <body>
+
 <div align = "left">
 <ul>
 <h3> 카테고리 </h3>
-<!-- 추가되는 책의 양과 분야에 따라 더 세분화할 예정 -->
+<!-- 추가되는 책의 양과 분야에 따라 더 세분화할 예정-->
 <li>
 <a href = "#CS"> CS </a>
+<ul>
+<li>
+<a href = "#Language"> 언어 </a>
+</li>
+<li>
+<a href = "#Algorithm"> 자료구조, 알고리즘 </a>
+</li>
+<li>
+<a href = "#Design"> 디자인패턴 </a>
+</li>
+</ul>
 </li>
 <li>
 <a href = "#Dev"> 개발 </a>
 </li>
 </ul>
 </div>
-<a name = "#CS"></a> <h3> CS </h3>
+<a name = "#CS"></a> <h2> CS </h2>
 
-<a name = "#Dev"></a> <h3> Dev </h3> 
+<a name = "#Language"></a> <h4> 언어 </h4>
+
+<a name = "#Algorithm"></a> <h4> 자료구조, 알고리즘 </h4>
+
+<a name = "#DesignPatterns"></a> <h4> 디자인 패턴 </h4>
+
+<a name = "#Dev"></a> <h2> 개발 </h2> 
+
 </body>
+<tail>
+
+</tail>
