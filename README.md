@@ -1,8 +1,8 @@
 <header>
 <div align = "center">
 <h2> 📚 Reader </h2>
-<h3> Contributors </h3>
-<div id = "contributor">
+<h3> Collaborators </h3>
+<div id = "collaborator">
 <!-- 양식 -->
 <!-- 
 <a href = "깃허브 링크"> 
