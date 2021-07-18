@@ -14,8 +14,10 @@
 <img src = "https://avatars.githubusercontent.com/u/62425964?v=4" width = "55" height = "55"/>
 </a><a href = "https://github.com/small-j"> 
 <img src = "https://avatars.githubusercontent.com/u/44703262?v=4" width = "55" height = "55"/>
-</a></a><a href = "https://github.com/gjdms611"> 
+</a><a href = "https://github.com/gjdms611"> 
 <img src = "https://avatars.githubusercontent.com/u/36730670?v=4" width = "55" height = "55"/>
+</a><a href = "https://github.com/tekiter"> 
+<img src = "https://avatars.githubusercontent.com/u/36122585?v=4" width = "55" height = "55"/>
 </a>
 <!-- END : Contributors 설정 -->
 <!-- repo 설명 -->
