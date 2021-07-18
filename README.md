@@ -106,6 +106,13 @@
 
 <a name = "#DesignPatterns"></a> <h4> 디자인 패턴 </h4>
 
+<li>
+	<a href = "/books/Head First Design Patterns">Head First Design Patterns</a>
+	<br> [Devxb] / 2021.05.05 / ★☆☆☆☆
+	<br> - 디자인패턴을 그림을 통해 재미있게 설명해줘서 부담되지않고 읽기 편했음
+	<br> 머리로만 알고있던 객체지향의 장점을 몸소 느끼게 해주는 좋은 책이였다
+</li>
+
 <a name = "#Dev"></a> <h2> 개발 </h2> 
 
 </body>
